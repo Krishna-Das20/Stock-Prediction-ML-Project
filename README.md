@@ -5,7 +5,7 @@ Predict next-day closing prices using historical data and Random Forest Regressi
 
 ---
 
-## 🌟 Key Features  
+##  Key Features  
 - Predicts stock prices for **50 Nifty companies**  
 - Achieves **<5% MAPE** (Mean Absolute Percentage Error)  
 - Minimalist design with **5-day lag features**  
@@ -47,7 +47,7 @@ Enter serial number: 25
 
 ##  Results  
 **Tech Mahindra Prediction**  
-![Actual vs Predicted](results/prediction_plot.png)  
+![Actual vs Predicted](results/TECHM_Prediction.png)  
 
 | Metric | Value |  
 |--------|-------|  

@@ -1,4 +1,4 @@
-# Stock Price Prediction for Nifty 50 📈
+# Stock Price Prediction for Nifty 50 
 
 Predict next-day closing prices using historical data and Random Forest Regression.  
   
@@ -72,5 +72,5 @@ Enter serial number: 25
 ---
 
 ## Contact at:
-📧 krishnadas2806@gmail.com  
-🔗 [GitHub Profile](https://github.com/Krishna-Das20)
+ krishnadas2806@gmail.com  
+ [GitHub Profile](https://github.com/Krishna-Das20)
